@@ -10,7 +10,7 @@
 	</parent>
 	<groupId>pl.kamilczubaszek</groupId>
 	<artifactId>heroku-deploy</artifactId>
-	<version>0.0.1-SNAPSHOT</version>
+	<version>1.0.0</version>
 	<packaging>war</packaging>
 	<name>heroku-deploy</name>
 	<description>Demo project for Spring Boot</description>
